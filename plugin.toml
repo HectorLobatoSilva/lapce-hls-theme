@@ -1,0 +1,7 @@
+name = "material-dark-orange"
+display-name = "Material Dark Orange"
+description = "My theme based on Material Theme with orange accent color"
+version = "0.1.0"
+author = "Hector Lobato"
+repository = "HectorLobatoSilva/lapce-hls-theme"
+themes = ["material-dark-orange.toml"]
